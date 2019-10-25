@@ -1,6 +1,1 @@
-
-print("kkkkkk")
-print('###')
-
-print('ttt')
-
+print('tasdfghjkl')
