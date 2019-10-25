@@ -1,4 +1,1 @@
-
-
-print('ttt')
-
+print('tasdfghjkl')
